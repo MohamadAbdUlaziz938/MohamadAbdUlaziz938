@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohamad Abd-Ulaziz</h1>
 <h3 align="center">A Flutter Engineer | Data scientist Engineer</h3>
